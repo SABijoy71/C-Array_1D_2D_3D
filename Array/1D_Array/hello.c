@@ -12,6 +12,5 @@ int main(){
 		printf("%d\n", array1D[i]);
 	}
 
-
 	return 0;
 }
